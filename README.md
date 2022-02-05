@@ -1,6 +1,46 @@
 # vakinha_burguer_mobile
 
-A new Flutter project.
+A new Flutter project by the Academia do Flutter's Dart Week.
+
+With this project I had the opportunity to get to know a lot of Flutter widgets and implementations, and also a project structure, with access to the BackEnd.
+
+There is still a lot for me to explore in this project.
+
+Vakinha Burguer is a delivery application for snacks, with payment with Pix.
+
+<h2>  Project's page
+
+![page one](assets/images/page_1.png)
+
+---
+
+![page two](assets/images/page_2.png)
+
+---
+
+![page three](assets/images/page_3.png)
+
+---
+
+![page four](assets/images/page_4.png)
+
+---
+
+![page five](assets/images/page_5.png)
+
+---
+
+![page six](assets/images/page_6.png)
+
+---
+
+![page seven](assets/images/page_7.png)
+
+---
+
+![page eight](assets/images/page_8.png)
+
+---
 
 ## Getting Started
 
